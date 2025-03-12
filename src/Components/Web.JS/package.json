@@ -18,7 +18,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.0",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.15.0",
     "@microsoft/dotnet-js-interop": "link:../../JSInterop/Microsoft.JSInterop.JS/src",
     "@microsoft/signalr": "link:../../SignalR/clients/ts/signalr",
